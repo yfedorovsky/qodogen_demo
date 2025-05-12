@@ -8,7 +8,7 @@
 
 ## 1. Overview
 
-Acme Corp has been a valued customer since March 2021. Over the past quarter, we have observed shifts in product usage and support engagement, providing key insights for our ongoing partnership.
+Acme Corp has been a valued customer since January 2021. Over the past quarter, we have observed shifts in product usage and support engagement, providing key insights for our ongoing partnership.
 
 ---
 
